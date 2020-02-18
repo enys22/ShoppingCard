@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    background-color: darkgray;
+}
+a{
+    text-decoration: none;
+}
+p{
+    margin: 0;
+}
+button{
+    /* margin-right: 5px; */
+    border: none;
+    background: none;
+}
+.product-container{
+    display: flex;
+}
